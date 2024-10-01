@@ -1,0 +1,117 @@
+body {
+  background-color: #051f18;
+  overflow-x: hidden;
+}
+
+header {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 73% 94%, 0 100%);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: right;
+  padding: 2rem;
+}
+
+.banner {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #85ab90;
+}
+
+.name a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 500;
+  text-align: right;
+  margin-right: 2rem;
+  text-transform: uppercase;
+  transition: all 0.5s ease;
+}
+
+.name a:hover {
+  color: #4dff88;
+}
+
+.lang {
+  padding-right: 30px;
+  padding-top: 2px;
+}
+
+.lang a {
+  color: #85ab90;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 200;
+  margin-left: 1rem;
+  transition: all 0.5s ease;
+}
+
+.korean {
+  font-size: 0.75rem;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.lang a:hover {
+  color: #aaaaaa;
+}
+
+button {
+  background: #ffffff;
+  color: #051f18;
+  font-size: 16px;
+  font-family: "Readex Pro", sans-serif;
+  border: none;
+  padding: 2px 10px;
+  /* border-radius: 12px;*/
+}
+
+button:hover {
+  background: #4dff88;
+  transition: all 0.5s ease;
+}
+
+h1 {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: #fff7dc;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #ffffff;
+  letter-spacing: -0.5px;
+  line-height: 140%;
+}
+
+.main-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  height: 30em;
+}
+
+.misc {
+  font-family: "Outfit", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #9f9f9f;
+  letter-spacing: -0.5px;
+  line-height: 140%;
+}
