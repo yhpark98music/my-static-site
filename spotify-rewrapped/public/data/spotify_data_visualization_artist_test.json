@@ -1,0 +1,2389 @@
+[
+  {
+    "ID": 1,
+    "Artist": "Annalisa",
+    "Country": "Italy",
+    "Streams": 2610,
+    "Minutes": 8132.8
+  },
+  {
+    "ID": 2,
+    "Artist": "Kelly Clarkson",
+    "Country": "United States",
+    "Streams": 2105,
+    "Minutes": 6936.5
+  },
+  {
+    "ID": 3,
+    "Artist": "NATHY PELUSO",
+    "Country": "Argentina",
+    "Streams": 1651,
+    "Minutes": 4913.3
+  },
+  {
+    "ID": 4,
+    "Artist": "Emilia",
+    "Country": "Argentina",
+    "Streams": 1577,
+    "Minutes": 4069.5
+  },
+  {
+    "ID": 5,
+    "Artist": "FLETCHER",
+    "Country": "United States",
+    "Streams": 1572,
+    "Minutes": 4333
+  },
+  {
+    "ID": 6,
+    "Artist": "Marina Sena",
+    "Country": "Brazil",
+    "Streams": 1418,
+    "Minutes": 4870.1
+  },
+  {
+    "ID": 7,
+    "Artist": "Molly Sandén",
+    "Country": "Sweden",
+    "Streams": 1357,
+    "Minutes": 3754.7
+  },
+  {
+    "ID": 8,
+    "Artist": "Zara Larsson",
+    "Country": "Sweden",
+    "Streams": 1346,
+    "Minutes": 4121.9
+  },
+  {
+    "ID": 9,
+    "Artist": "Charlotte Cardin",
+    "Country": "Canada",
+    "Streams": 1272,
+    "Minutes": 3595.2
+  },
+  {
+    "ID": 10,
+    "Artist": "An-Marlen",
+    "Country": "Estonia",
+    "Streams": 1163,
+    "Minutes": 3314.1
+  },
+  {
+    "ID": 11,
+    "Artist": "Kylie Minogue",
+    "Country": "Australia",
+    "Streams": 1150,
+    "Minutes": 3461.8
+  },
+  {
+    "ID": 12,
+    "Artist": "Mahalini",
+    "Country": "Indonesia",
+    "Streams": 929,
+    "Minutes": 3472.7
+  },
+  {
+    "ID": 13,
+    "Artist": "Maan",
+    "Country": "Netherlands",
+    "Streams": 915,
+    "Minutes": 2501.2
+  },
+  {
+    "ID": 14,
+    "Artist": "Bizarrap",
+    "Country": "Argentina",
+    "Streams": 867,
+    "Minutes": 2617.3
+  },
+  {
+    "ID": 15,
+    "Artist": "Ariana Grande",
+    "Country": "United States",
+    "Streams": 855,
+    "Minutes": 2767.6
+  },
+  {
+    "ID": 16,
+    "Artist": "RAYE",
+    "Country": "United Kingdom",
+    "Streams": 847,
+    "Minutes": 2938.8
+  },
+  {
+    "ID": 17,
+    "Artist": "Shakira",
+    "Country": "Colombia",
+    "Streams": 811,
+    "Minutes": 2531.1
+  },
+  {
+    "ID": 18,
+    "Artist": "Oklou",
+    "Country": "France",
+    "Streams": 793,
+    "Minutes": 2422.4
+  },
+  {
+    "ID": 19,
+    "Artist": "Becky Hill",
+    "Country": "United Kingdom",
+    "Streams": 772,
+    "Minutes": 2150.8
+  },
+  {
+    "ID": 20,
+    "Artist": "Tate McRae",
+    "Country": "Canada",
+    "Streams": 714,
+    "Minutes": 1824.1
+  },
+  {
+    "ID": 21,
+    "Artist": "Sabrina Carpenter",
+    "Country": "United States",
+    "Streams": 713,
+    "Minutes": 1957.2
+  },
+  {
+    "ID": 22,
+    "Artist": "Roxy Dekker",
+    "Country": "Netherlands",
+    "Streams": 690,
+    "Minutes": 1502
+  },
+  {
+    "ID": 23,
+    "Artist": "Magdalena Bay",
+    "Country": "United States",
+    "Streams": 688,
+    "Minutes": 2654.5
+  },
+  {
+    "ID": 24,
+    "Artist": "Billie Eilish",
+    "Country": "United States",
+    "Streams": 682,
+    "Minutes": 2395.3
+  },
+  {
+    "ID": 25,
+    "Artist": "Kacey Musgraves",
+    "Country": "United States",
+    "Streams": 682,
+    "Minutes": 2010.7
+  },
+  {
+    "ID": 26,
+    "Artist": "boipepperoni",
+    "Country": "Estonia",
+    "Streams": 675,
+    "Minutes": 1952.3
+  },
+  {
+    "ID": 27,
+    "Artist": "Troye Sivan",
+    "Country": "Australia",
+    "Streams": 659,
+    "Minutes": 1959.5
+  },
+  {
+    "ID": 28,
+    "Artist": "Hanna Ferm",
+    "Country": "Sweden",
+    "Streams": 642,
+    "Minutes": 1645.1
+  },
+  {
+    "ID": 29,
+    "Artist": "Charli xcx",
+    "Country": "United Kingdom",
+    "Streams": 630,
+    "Minutes": 2037.4
+  },
+  {
+    "ID": 30,
+    "Artist": "ROSALÍA",
+    "Country": "Spain",
+    "Streams": 623,
+    "Minutes": 1812.2
+  },
+  {
+    "ID": 31,
+    "Artist": "Julia Lov",
+    "Country": "Sweden",
+    "Streams": 619,
+    "Minutes": 1792.8
+  },
+  {
+    "ID": 32,
+    "Artist": "Joel Corry",
+    "Country": "United Kingdom",
+    "Streams": 612,
+    "Minutes": 1663.6
+  },
+  {
+    "ID": 33,
+    "Artist": "Cornelia Jakobs",
+    "Country": "Sweden",
+    "Streams": 608,
+    "Minutes": 1856.3
+  },
+  {
+    "ID": 34,
+    "Artist": "Addison Rae",
+    "Country": "United States",
+    "Streams": 605,
+    "Minutes": 1660.1
+  },
+  {
+    "ID": 35,
+    "Artist": "Angelina Mango",
+    "Country": "Italy",
+    "Streams": 596,
+    "Minutes": 1691.2
+  },
+  {
+    "ID": 36,
+    "Artist": "Taylor Acorn",
+    "Country": "United States",
+    "Streams": 593,
+    "Minutes": 1792.5
+  },
+  {
+    "ID": 37,
+    "Artist": "Chris Holsten",
+    "Country": "Norway",
+    "Streams": 587,
+    "Minutes": 1588.3
+  },
+  {
+    "ID": 38,
+    "Artist": "Marina Satti",
+    "Country": "Greece",
+    "Streams": 585,
+    "Minutes": 1589.6
+  },
+  {
+    "ID": 39,
+    "Artist": "David Guetta",
+    "Country": "France",
+    "Streams": 579,
+    "Minutes": 1624.4
+  },
+  {
+    "ID": 40,
+    "Artist": "Angèle",
+    "Country": "Belgium",
+    "Streams": 540,
+    "Minutes": 1690.3
+  },
+  {
+    "ID": 41,
+    "Artist": "ANNA",
+    "Country": "Italy",
+    "Streams": 526,
+    "Minutes": 1275.8
+  },
+  {
+    "ID": 42,
+    "Artist": "Belén Aguilera",
+    "Country": "Spain",
+    "Streams": 523,
+    "Minutes": 1266.8
+  },
+  {
+    "ID": 43,
+    "Artist": "Katy Perry",
+    "Country": "United States",
+    "Streams": 521,
+    "Minutes": 1625.5
+  },
+  {
+    "ID": 44,
+    "Artist": "Evelina",
+    "Country": "Finland",
+    "Streams": 518,
+    "Minutes": 1527.6
+  },
+  {
+    "ID": 45,
+    "Artist": "Elodie",
+    "Country": "Italy",
+    "Streams": 508,
+    "Minutes": 1465.1
+  },
+  {
+    "ID": 46,
+    "Artist": "Jessie Ware",
+    "Country": "United Kingdom",
+    "Streams": 500,
+    "Minutes": 1715.5
+  },
+  {
+    "ID": 47,
+    "Artist": "Zoë Tauran",
+    "Country": "Netherlands",
+    "Streams": 486,
+    "Minutes": 1316
+  },
+  {
+    "ID": 48,
+    "Artist": "Ella Eyre",
+    "Country": "United Kingdom",
+    "Streams": 478,
+    "Minutes": 1376
+  },
+  {
+    "ID": 49,
+    "Artist": "Olivia O'Brien",
+    "Country": "United States",
+    "Streams": 473,
+    "Minutes": 1351
+  },
+  {
+    "ID": 50,
+    "Artist": "Mabel",
+    "Country": "United States",
+    "Streams": 471,
+    "Minutes": 1275.5
+  },
+  {
+    "ID": 51,
+    "Artist": "Aitana",
+    "Country": "Spain",
+    "Streams": 470,
+    "Minutes": 1203.4
+  },
+  {
+    "ID": 52,
+    "Artist": "Dua Lipa",
+    "Country": "United Kingdom",
+    "Streams": 466,
+    "Minutes": 1403
+  },
+  {
+    "ID": 53,
+    "Artist": "Froukje",
+    "Country": "Netherlands",
+    "Streams": 465,
+    "Minutes": 1193.2
+  },
+  {
+    "ID": 54,
+    "Artist": "PinkPantheress",
+    "Country": "United Kingdom",
+    "Streams": 463,
+    "Minutes": 1184.4
+  },
+  {
+    "ID": 55,
+    "Artist": "Veronica Maggio",
+    "Country": "Sweden",
+    "Streams": 457,
+    "Minutes": 1302.2
+  },
+  {
+    "ID": 56,
+    "Artist": "Peg Parnevik",
+    "Country": "Sweden",
+    "Streams": 455,
+    "Minutes": 1325.8
+  },
+  {
+    "ID": 57,
+    "Artist": "Rina Sawayama",
+    "Country": "United Kingdom",
+    "Streams": 445,
+    "Minutes": 1338.6
+  },
+  {
+    "ID": 58,
+    "Artist": "Bebe Rexha",
+    "Country": "United States",
+    "Streams": 443,
+    "Minutes": 1132.7
+  },
+  {
+    "ID": 59,
+    "Artist": "Mariah Carey",
+    "Country": "United States",
+    "Streams": 424,
+    "Minutes": 1380.6
+  },
+  {
+    "ID": 60,
+    "Artist": "Iliona",
+    "Country": "Belgium",
+    "Streams": 420,
+    "Minutes": 1182.1
+  },
+  {
+    "ID": 61,
+    "Artist": "sanah",
+    "Country": "Poland",
+    "Streams": 417,
+    "Minutes": 1351.5
+  },
+  {
+    "ID": 62,
+    "Artist": "Laura Pausini",
+    "Country": "Italy",
+    "Streams": 416,
+    "Minutes": 1517.2
+  },
+  {
+    "ID": 63,
+    "Artist": "TINI",
+    "Country": "Argentina",
+    "Streams": 413,
+    "Minutes": 1016.6
+  },
+  {
+    "ID": 64,
+    "Artist": "Guitarricadelafuente",
+    "Country": "Spain",
+    "Streams": 401,
+    "Minutes": 1052.3
+  },
+  {
+    "ID": 65,
+    "Artist": "Cherrie",
+    "Country": "Sweden",
+    "Streams": 397,
+    "Minutes": 1093.7
+  },
+  {
+    "ID": 66,
+    "Artist": "Irina Rimes",
+    "Country": "Moldova",
+    "Streams": 395,
+    "Minutes": 1297.3
+  },
+  {
+    "ID": 67,
+    "Artist": "Chappell Roan",
+    "Country": "United States",
+    "Streams": 389,
+    "Minutes": 1293
+  },
+  {
+    "ID": 68,
+    "Artist": "Astrid S",
+    "Country": "Norway",
+    "Streams": 388,
+    "Minutes": 1068.8
+  },
+  {
+    "ID": 69,
+    "Artist": "Marília Mendonça",
+    "Country": "Brazil",
+    "Streams": 388,
+    "Minutes": 1053.5
+  },
+  {
+    "ID": 70,
+    "Artist": "KAROL G",
+    "Country": "Colombia",
+    "Streams": 382,
+    "Minutes": 1164.8
+  },
+  {
+    "ID": 71,
+    "Artist": "Miriam Bryant",
+    "Country": "Sweden",
+    "Streams": 379,
+    "Minutes": 1090.6
+  },
+  {
+    "ID": 72,
+    "Artist": "Taylor Swift",
+    "Country": "United States",
+    "Streams": 372,
+    "Minutes": 1176.8
+  },
+  {
+    "ID": 73,
+    "Artist": "Molly Hammar",
+    "Country": "Sweden",
+    "Streams": 370,
+    "Minutes": 1037.7
+  },
+  {
+    "ID": 74,
+    "Artist": "After",
+    "Country": "United States",
+    "Streams": 367,
+    "Minutes": 1194.7
+  },
+  {
+    "ID": 75,
+    "Artist": "Tove Lo",
+    "Country": "Sweden",
+    "Streams": 367,
+    "Minutes": 1214.2
+  },
+  {
+    "ID": 76,
+    "Artist": "Jonas Blue",
+    "Country": "United Kingdom",
+    "Streams": 363,
+    "Minutes": 1041.7
+  },
+  {
+    "ID": 77,
+    "Artist": "Agnes",
+    "Country": "Sweden",
+    "Streams": 359,
+    "Minutes": 1172.6
+  },
+  {
+    "ID": 78,
+    "Artist": "JADE",
+    "Country": "United Kingdom",
+    "Streams": 357,
+    "Minutes": 1156.9
+  },
+  {
+    "ID": 79,
+    "Artist": "Michelle Branch",
+    "Country": "United States",
+    "Streams": 357,
+    "Minutes": 1232.7
+  },
+  {
+    "ID": 80,
+    "Artist": "Adele",
+    "Country": "United Kingdom",
+    "Streams": 356,
+    "Minutes": 1383.4
+  },
+  {
+    "ID": 81,
+    "Artist": "sombr",
+    "Country": "United States",
+    "Streams": 353,
+    "Minutes": 1155.2
+  },
+  {
+    "ID": 82,
+    "Artist": "Tom Grennan",
+    "Country": "United Kingdom",
+    "Streams": 352,
+    "Minutes": 1000.4
+  },
+  {
+    "ID": 83,
+    "Artist": "Kris Kross Amsterdam",
+    "Country": "Netherlands",
+    "Streams": 344,
+    "Minutes": 839.1
+  },
+  {
+    "ID": 84,
+    "Artist": "070 Shake",
+    "Country": "United States",
+    "Streams": 343,
+    "Minutes": 1446.7
+  },
+  {
+    "ID": 85,
+    "Artist": "Lady Gaga",
+    "Country": "United States",
+    "Streams": 343,
+    "Minutes": 1155.6
+  },
+  {
+    "ID": 86,
+    "Artist": "Luísa Sonza",
+    "Country": "Brazil",
+    "Streams": 342,
+    "Minutes": 1033.5
+  },
+  {
+    "ID": 87,
+    "Artist": "Rita Ora",
+    "Country": "United Kingdom",
+    "Streams": 341,
+    "Minutes": 947.2
+  },
+  {
+    "ID": 88,
+    "Artist": "Etta",
+    "Country": "Finland",
+    "Streams": 327,
+    "Minutes": 837.4
+  },
+  {
+    "ID": 89,
+    "Artist": "Julie Bergan",
+    "Country": "Norway",
+    "Streams": 327,
+    "Minutes": 820.1
+  },
+  {
+    "ID": 90,
+    "Artist": "Thor Farlov",
+    "Country": "Denmark",
+    "Streams": 322,
+    "Minutes": 786.8
+  },
+  {
+    "ID": 91,
+    "Artist": "Sam Fender",
+    "Country": "United Kingdom",
+    "Streams": 321,
+    "Minutes": 1106
+  },
+  {
+    "ID": 92,
+    "Artist": "Carol Biazin",
+    "Country": "Brazil",
+    "Streams": 320,
+    "Minutes": 821.6
+  },
+  {
+    "ID": 93,
+    "Artist": "Sigala",
+    "Country": "United Kingdom",
+    "Streams": 318,
+    "Minutes": 930.1
+  },
+  {
+    "ID": 94,
+    "Artist": "Kito",
+    "Country": "Australia",
+    "Streams": 317,
+    "Minutes": 901.4000000000001
+  },
+  {
+    "ID": 95,
+    "Artist": "Victor Leksell",
+    "Country": "Sweden",
+    "Streams": 317,
+    "Minutes": 850.6
+  },
+  {
+    "ID": 96,
+    "Artist": "cupcakKe",
+    "Country": "United States",
+    "Streams": 311,
+    "Minutes": 810.8
+  },
+  {
+    "ID": 97,
+    "Artist": "Sigrid",
+    "Country": "Norway",
+    "Streams": 309,
+    "Minutes": 859.4
+  },
+  {
+    "ID": 98,
+    "Artist": "ABBA",
+    "Country": "Sweden",
+    "Streams": 306,
+    "Minutes": 1099.3
+  },
+  {
+    "ID": 99,
+    "Artist": "Ellie Goulding",
+    "Country": "United Kingdom",
+    "Streams": 305,
+    "Minutes": 995.1
+  },
+  {
+    "ID": 100,
+    "Artist": "Ptazeta",
+    "Country": "Spain",
+    "Streams": 305,
+    "Minutes": 830.7
+  },
+  {
+    "ID": 101,
+    "Artist": "Snelle",
+    "Country": "Netherlands",
+    "Streams": 298,
+    "Minutes": 778.2
+  },
+  {
+    "ID": 102,
+    "Artist": "LUDMILLA",
+    "Country": "Brazil",
+    "Streams": 296,
+    "Minutes": 819.8
+  },
+  {
+    "ID": 103,
+    "Artist": "Kita Alexander",
+    "Country": "Australia",
+    "Streams": 293,
+    "Minutes": 909.4
+  },
+  {
+    "ID": 104,
+    "Artist": "Christina Aguilera",
+    "Country": "United States",
+    "Streams": 291,
+    "Minutes": 924
+  },
+  {
+    "ID": 105,
+    "Artist": "Paramore",
+    "Country": "United States",
+    "Streams": 291,
+    "Minutes": 941.9
+  },
+  {
+    "ID": 106,
+    "Artist": "Lizzo",
+    "Country": "United States",
+    "Streams": 290,
+    "Minutes": 865.9000000000001
+  },
+  {
+    "ID": 107,
+    "Artist": "Maria Becerra",
+    "Country": "Argentina",
+    "Streams": 288,
+    "Minutes": 593.9
+  },
+  {
+    "ID": 108,
+    "Artist": "SG Lewis",
+    "Country": "United Kingdom",
+    "Streams": 288,
+    "Minutes": 961.0999999999999
+  },
+  {
+    "ID": 109,
+    "Artist": "Bárbara Bandeira",
+    "Country": "Portugal",
+    "Streams": 287,
+    "Minutes": 928.2
+  },
+  {
+    "ID": 110,
+    "Artist": "FOUX",
+    "Country": "Mongolia",
+    "Streams": 284,
+    "Minutes": 837.4
+  },
+  {
+    "ID": 111,
+    "Artist": "Julieta",
+    "Country": "Spain",
+    "Streams": 281,
+    "Minutes": 676.2
+  },
+  {
+    "ID": 112,
+    "Artist": "Holly Humberstone",
+    "Country": "United Kingdom",
+    "Streams": 280,
+    "Minutes": 988.6
+  },
+  {
+    "ID": 113,
+    "Artist": "S10",
+    "Country": "Netherlands",
+    "Streams": 280,
+    "Minutes": 726.4
+  },
+  {
+    "ID": 114,
+    "Artist": "Bente",
+    "Country": "Netherlands",
+    "Streams": 278,
+    "Minutes": 787.3
+  },
+  {
+    "ID": 115,
+    "Artist": "Mon Laferte",
+    "Country": "Chile",
+    "Streams": 271,
+    "Minutes": 969.5
+  },
+  {
+    "ID": 116,
+    "Artist": "Tinashe",
+    "Country": "United States",
+    "Streams": 271,
+    "Minutes": 739.7
+  },
+  {
+    "ID": 117,
+    "Artist": "Annika",
+    "Country": "Denmark",
+    "Streams": 269,
+    "Minutes": 698.7
+  },
+  {
+    "ID": 118,
+    "Artist": "DOROFEEVA",
+    "Country": "Ukraine",
+    "Streams": 269,
+    "Minutes": 787.7
+  },
+  {
+    "ID": 119,
+    "Artist": "Antoon",
+    "Country": "Netherlands",
+    "Streams": 268,
+    "Minutes": 588.2
+  },
+  {
+    "ID": 120,
+    "Artist": "Kim Petras",
+    "Country": "Germany",
+    "Streams": 268,
+    "Minutes": 764.7
+  },
+  {
+    "ID": 121,
+    "Artist": "Avril Lavigne",
+    "Country": "Canada",
+    "Streams": 262,
+    "Minutes": 818.7
+  },
+  {
+    "ID": 122,
+    "Artist": "Dermot Kennedy",
+    "Country": "Ireland",
+    "Streams": 262,
+    "Minutes": 864.7
+  },
+  {
+    "ID": 123,
+    "Artist": "Doja Cat",
+    "Country": "United States",
+    "Streams": 260,
+    "Minutes": 824.1
+  },
+  {
+    "ID": 124,
+    "Artist": "GRANT KNOCHE",
+    "Country": "United States",
+    "Streams": 260,
+    "Minutes": 657.6
+  },
+  {
+    "ID": 125,
+    "Artist": "MARO",
+    "Country": "Portugal",
+    "Streams": 259,
+    "Minutes": 735.7
+  },
+  {
+    "ID": 126,
+    "Artist": "Cassadee Pope",
+    "Country": "United States",
+    "Streams": 257,
+    "Minutes": 868.7
+  },
+  {
+    "ID": 127,
+    "Artist": "Pommelien Thijs",
+    "Country": "Belgium",
+    "Streams": 255,
+    "Minutes": 590.4
+  },
+  {
+    "ID": 128,
+    "Artist": "Giorgia",
+    "Country": "Italy",
+    "Streams": 254,
+    "Minutes": 982.1
+  },
+  {
+    "ID": 129,
+    "Artist": "LÉON",
+    "Country": "Sweden",
+    "Streams": 251,
+    "Minutes": 783.2
+  },
+  {
+    "ID": 130,
+    "Artist": "Daniela Rathana",
+    "Country": "Sweden",
+    "Streams": 250,
+    "Minutes": 689
+  },
+  {
+    "ID": 131,
+    "Artist": "Mahmood",
+    "Country": "Italy",
+    "Streams": 250,
+    "Minutes": 674.7
+  },
+  {
+    "ID": 132,
+    "Artist": "Wiktoria",
+    "Country": "Sweden",
+    "Streams": 249,
+    "Minutes": 697.2
+  },
+  {
+    "ID": 133,
+    "Artist": "Sheena Ringo",
+    "Country": "Japan",
+    "Streams": 245,
+    "Minutes": 1028.6
+  },
+  {
+    "ID": 134,
+    "Artist": "Bad Bunny",
+    "Country": "Puerto Rico",
+    "Streams": 244,
+    "Minutes": 748.8
+  },
+  {
+    "ID": 135,
+    "Artist": "Måneskin",
+    "Country": "Italy",
+    "Streams": 243,
+    "Minutes": 661
+  },
+  {
+    "ID": 136,
+    "Artist": "Ayau",
+    "Country": "Kazakhstan",
+    "Streams": 241,
+    "Minutes": 663.1
+  },
+  {
+    "ID": 137,
+    "Artist": "Loreen",
+    "Country": "Sweden",
+    "Streams": 240,
+    "Minutes": 704.8
+  },
+  {
+    "ID": 138,
+    "Artist": "SZA",
+    "Country": "United States",
+    "Streams": 233,
+    "Minutes": 644
+  },
+  {
+    "ID": 139,
+    "Artist": "Viktor Sheen",
+    "Country": "Czechia",
+    "Streams": 232,
+    "Minutes": 604.5
+  },
+  {
+    "ID": 140,
+    "Artist": "Justyna Steczkowska",
+    "Country": "Poland",
+    "Streams": 231,
+    "Minutes": 670.2
+  },
+  {
+    "ID": 141,
+    "Artist": "Lola Indigo",
+    "Country": "Spain",
+    "Streams": 230,
+    "Minutes": 655.1
+  },
+  {
+    "ID": 142,
+    "Artist": "Beyoncé",
+    "Country": "United States",
+    "Streams": 228,
+    "Minutes": 807.7
+  },
+  {
+    "ID": 143,
+    "Artist": "Hooverphonic",
+    "Country": "Belgium",
+    "Streams": 228,
+    "Minutes": 695.5
+  },
+  {
+    "ID": 144,
+    "Artist": "Lily Allen",
+    "Country": "United Kingdom",
+    "Streams": 228,
+    "Minutes": 773.2
+  },
+  {
+    "ID": 145,
+    "Artist": "Demi Lovato",
+    "Country": "United States",
+    "Streams": 222,
+    "Minutes": 633.4
+  },
+  {
+    "ID": 146,
+    "Artist": "Miley Cyrus",
+    "Country": "United States",
+    "Streams": 222,
+    "Minutes": 699
+  },
+  {
+    "ID": 147,
+    "Artist": "Avicii",
+    "Country": "Sweden",
+    "Streams": 220,
+    "Minutes": 643.9
+  },
+  {
+    "ID": 148,
+    "Artist": "Ella Henderson",
+    "Country": "United Kingdom",
+    "Streams": 220,
+    "Minutes": 616.1999999999999
+  },
+  {
+    "ID": 149,
+    "Artist": "Emma",
+    "Country": "Italy",
+    "Streams": 219,
+    "Minutes": 603.3
+  },
+  {
+    "ID": 150,
+    "Artist": "Mae Muller",
+    "Country": "United Kingdom",
+    "Streams": 219,
+    "Minutes": 630.8000000000001
+  },
+  {
+    "ID": 151,
+    "Artist": "Oliver Heldens",
+    "Country": "Netherlands",
+    "Streams": 219,
+    "Minutes": 590
+  },
+  {
+    "ID": 152,
+    "Artist": "NYUSHA",
+    "Country": "Russia",
+    "Streams": 218,
+    "Minutes": 602.6
+  },
+  {
+    "ID": 153,
+    "Artist": "Paola & Chiara",
+    "Country": "Italy",
+    "Streams": 217,
+    "Minutes": 693.1
+  },
+  {
+    "ID": 154,
+    "Artist": "Nelly Furtado",
+    "Country": "Canada",
+    "Streams": 215,
+    "Minutes": 663
+  },
+  {
+    "ID": 155,
+    "Artist": "Maggie Rogers",
+    "Country": "United States",
+    "Streams": 213,
+    "Minutes": 755.8
+  },
+  {
+    "ID": 156,
+    "Artist": "Clicherik & Mäx",
+    "Country": "Estonia",
+    "Streams": 212,
+    "Minutes": 609
+  },
+  {
+    "ID": 157,
+    "Artist": "Ninajirachi",
+    "Country": "Australia",
+    "Streams": 212,
+    "Minutes": 726.5
+  },
+  {
+    "ID": 158,
+    "Artist": "Carly Rae Jepsen",
+    "Country": "Canada",
+    "Streams": 209,
+    "Minutes": 604.8
+  },
+  {
+    "ID": 159,
+    "Artist": "Benedict Cork",
+    "Country": "United Kingdom",
+    "Streams": 208,
+    "Minutes": 590.1
+  },
+  {
+    "ID": 160,
+    "Artist": "Clairo",
+    "Country": "United States",
+    "Streams": 205,
+    "Minutes": 607.8
+  },
+  {
+    "ID": 161,
+    "Artist": "Jessica Mauboy",
+    "Country": "Australia",
+    "Streams": 205,
+    "Minutes": 598.3
+  },
+  {
+    "ID": 162,
+    "Artist": "Ivandro",
+    "Country": "Portugal",
+    "Streams": 202,
+    "Minutes": 666.8
+  },
+  {
+    "ID": 163,
+    "Artist": "Noemi",
+    "Country": "Italy",
+    "Streams": 201,
+    "Minutes": 612.4
+  },
+  {
+    "ID": 164,
+    "Artist": "Shkodra Elektronike",
+    "Country": "Albania",
+    "Streams": 200,
+    "Minutes": 665.0999999999999
+  },
+  {
+    "ID": 165,
+    "Artist": "Delia",
+    "Country": "Romania",
+    "Streams": 199,
+    "Minutes": 588.6
+  },
+  {
+    "ID": 166,
+    "Artist": "Shift K3Y",
+    "Country": "United Kingdom",
+    "Streams": 198,
+    "Minutes": 523
+  },
+  {
+    "ID": 167,
+    "Artist": "HAIM",
+    "Country": "United States",
+    "Streams": 197,
+    "Minutes": 650
+  },
+  {
+    "ID": 168,
+    "Artist": "Gaia",
+    "Country": "Italy",
+    "Streams": 196,
+    "Minutes": 608.5
+  },
+  {
+    "ID": 169,
+    "Artist": "Yseult",
+    "Country": "France",
+    "Streams": 195,
+    "Minutes": 594.4
+  },
+  {
+    "ID": 170,
+    "Artist": "Kaśka Sochacka",
+    "Country": "Poland",
+    "Streams": 192,
+    "Minutes": 719.3
+  },
+  {
+    "ID": 171,
+    "Artist": "Zoë Badwi",
+    "Country": "Australia",
+    "Streams": 191,
+    "Minutes": 521.1
+  },
+  {
+    "ID": 172,
+    "Artist": "Elissa",
+    "Country": "Lebanon",
+    "Streams": 190,
+    "Minutes": 788.9
+  },
+  {
+    "ID": 173,
+    "Artist": "Benjamin",
+    "Country": "Finland",
+    "Streams": 187,
+    "Minutes": 501.6
+  },
+  {
+    "ID": 174,
+    "Artist": "SANNI",
+    "Country": "Finland",
+    "Streams": 187,
+    "Minutes": 577.1
+  },
+  {
+    "ID": 175,
+    "Artist": "Frenna",
+    "Country": "Netherlands",
+    "Streams": 184,
+    "Minutes": 508.7
+  },
+  {
+    "ID": 176,
+    "Artist": "Ana Castela",
+    "Country": "Brazil",
+    "Streams": 182,
+    "Minutes": 465.7
+  },
+  {
+    "ID": 177,
+    "Artist": "Alok",
+    "Country": "Brazil",
+    "Streams": 181,
+    "Minutes": 493
+  },
+  {
+    "ID": 178,
+    "Artist": "Mille",
+    "Country": "Denmark",
+    "Streams": 180,
+    "Minutes": 486.1
+  },
+  {
+    "ID": 179,
+    "Artist": "Tiësto",
+    "Country": "Netherlands",
+    "Streams": 180,
+    "Minutes": 484.8
+  },
+  {
+    "ID": 180,
+    "Artist": "Julia Michaels",
+    "Country": "United States",
+    "Streams": 176,
+    "Minutes": 554.6
+  },
+  {
+    "ID": 181,
+    "Artist": "PNAU",
+    "Country": "Australia",
+    "Streams": 176,
+    "Minutes": 491.3
+  },
+  {
+    "ID": 182,
+    "Artist": "Jess Glynne",
+    "Country": "United Kingdom",
+    "Streams": 175,
+    "Minutes": 582.9
+  },
+  {
+    "ID": 183,
+    "Artist": "Sgt Slick",
+    "Country": "Australia",
+    "Streams": 174,
+    "Minutes": 469.5
+  },
+  {
+    "ID": 184,
+    "Artist": "Benjamin Ingrosso",
+    "Country": "Sweden",
+    "Streams": 173,
+    "Minutes": 458.1
+  },
+  {
+    "ID": 185,
+    "Artist": "Leona Lewis",
+    "Country": "United Kingdom",
+    "Streams": 173,
+    "Minutes": 588.9
+  },
+  {
+    "ID": 186,
+    "Artist": "BESS",
+    "Country": "Finland",
+    "Streams": 172,
+    "Minutes": 460
+  },
+  {
+    "ID": 187,
+    "Artist": "Chanel",
+    "Country": "Spain",
+    "Streams": 172,
+    "Minutes": 461.8
+  },
+  {
+    "ID": 188,
+    "Artist": "Killa Fonic",
+    "Country": "Romania",
+    "Streams": 172,
+    "Minutes": 441.1
+  },
+  {
+    "ID": 189,
+    "Artist": "Laufey",
+    "Country": "Iceland",
+    "Streams": 172,
+    "Minutes": 532.1
+  },
+  {
+    "ID": 190,
+    "Artist": "Palmy",
+    "Country": "Thailand",
+    "Streams": 171,
+    "Minutes": 569.3
+  },
+  {
+    "ID": 191,
+    "Artist": "Francesca Michielin",
+    "Country": "Italy",
+    "Streams": 170,
+    "Minutes": 456.6
+  },
+  {
+    "ID": 192,
+    "Artist": "Lana Del Rey",
+    "Country": "United States",
+    "Streams": 168,
+    "Minutes": 591.7
+  },
+  {
+    "ID": 193,
+    "Artist": "Bilal Wahib",
+    "Country": "Netherlands",
+    "Streams": 167,
+    "Minutes": 356.7
+  },
+  {
+    "ID": 194,
+    "Artist": "JoJo",
+    "Country": "United States",
+    "Streams": 166,
+    "Minutes": 549.1
+  },
+  {
+    "ID": 195,
+    "Artist": "Loud Luxury",
+    "Country": "Canada",
+    "Streams": 165,
+    "Minutes": 383.1
+  },
+  {
+    "ID": 196,
+    "Artist": "Alizzz",
+    "Country": "Spain",
+    "Streams": 160,
+    "Minutes": 428
+  },
+  {
+    "ID": 197,
+    "Artist": "f5ve",
+    "Country": "Japan",
+    "Streams": 160,
+    "Minutes": 445.9
+  },
+  {
+    "ID": 198,
+    "Artist": "Lyodra",
+    "Country": "Indonesia",
+    "Streams": 160,
+    "Minutes": 551
+  },
+  {
+    "ID": 199,
+    "Artist": "Two Friends",
+    "Country": "United States",
+    "Streams": 160,
+    "Minutes": 372
+  },
+  {
+    "ID": 200,
+    "Artist": "Gryffin",
+    "Country": "United States",
+    "Streams": 159,
+    "Minutes": 404.3
+  },
+  {
+    "ID": 201,
+    "Artist": "Halsey",
+    "Country": "United States",
+    "Streams": 157,
+    "Minutes": 480
+  },
+  {
+    "ID": 202,
+    "Artist": "Ana Mena",
+    "Country": "Spain",
+    "Streams": 156,
+    "Minutes": 400.3
+  },
+  {
+    "ID": 203,
+    "Artist": "Chema Rivas",
+    "Country": "Spain",
+    "Streams": 156,
+    "Minutes": 385.7
+  },
+  {
+    "ID": 204,
+    "Artist": "Charley",
+    "Country": "Australia",
+    "Streams": 154,
+    "Minutes": 414
+  },
+  {
+    "ID": 205,
+    "Artist": "Güliz Ayla",
+    "Country": "Turkey",
+    "Streams": 154,
+    "Minutes": 484.2
+  },
+  {
+    "ID": 206,
+    "Artist": "Ronnie Flex",
+    "Country": "Netherlands",
+    "Streams": 154,
+    "Minutes": 362.3
+  },
+  {
+    "ID": 207,
+    "Artist": "ROXOLANA",
+    "Country": "Ukraine",
+    "Streams": 151,
+    "Minutes": 354.7
+  },
+  {
+    "ID": 208,
+    "Artist": "Kali Uchis",
+    "Country": "United States",
+    "Streams": 150,
+    "Minutes": 492.1
+  },
+  {
+    "ID": 209,
+    "Artist": "Bruno Mars",
+    "Country": "United States",
+    "Streams": 149,
+    "Minutes": 518.9
+  },
+  {
+    "ID": 210,
+    "Artist": "Leroy Sanchez",
+    "Country": "Spain",
+    "Streams": 149,
+    "Minutes": 447.6
+  },
+  {
+    "ID": 211,
+    "Artist": "Amel Bent",
+    "Country": "France",
+    "Streams": 148,
+    "Minutes": 473.8
+  },
+  {
+    "ID": 212,
+    "Artist": "Króli",
+    "Country": "Iceland",
+    "Streams": 148,
+    "Minutes": 398.2
+  },
+  {
+    "ID": 213,
+    "Artist": "KHEA",
+    "Country": "Argentina",
+    "Streams": 145,
+    "Minutes": 413.3
+  },
+  {
+    "ID": 214,
+    "Artist": "Sam Smith",
+    "Country": "United Kingdom",
+    "Streams": 145,
+    "Minutes": 393.6
+  },
+  {
+    "ID": 215,
+    "Artist": "We Are Domi",
+    "Country": "Czechia",
+    "Streams": 145,
+    "Minutes": 405.9
+  },
+  {
+    "ID": 216,
+    "Artist": "Samantha Jade",
+    "Country": "Australia",
+    "Streams": 144,
+    "Minutes": 445
+  },
+  {
+    "ID": 217,
+    "Artist": "Stefflon Don",
+    "Country": "United Kingdom",
+    "Streams": 143,
+    "Minutes": 441.6
+  },
+  {
+    "ID": 218,
+    "Artist": "säm",
+    "Country": "Estonia",
+    "Streams": 143,
+    "Minutes": 405.8
+  },
+  {
+    "ID": 219,
+    "Artist": "Alicia Moffet",
+    "Country": "Canada",
+    "Streams": 142,
+    "Minutes": 474
+  },
+  {
+    "ID": 220,
+    "Artist": "Dylan Conrique",
+    "Country": "United States",
+    "Streams": 140,
+    "Minutes": 457.2
+  },
+  {
+    "ID": 221,
+    "Artist": "Zecca",
+    "Country": "Argentina",
+    "Streams": 140,
+    "Minutes": 444.2
+  },
+  {
+    "ID": 222,
+    "Artist": "D-Block Europe",
+    "Country": "United Kingdom",
+    "Streams": 139,
+    "Minutes": 297.6
+  },
+  {
+    "ID": 223,
+    "Artist": "Lamin",
+    "Country": "Denmark",
+    "Streams": 139,
+    "Minutes": 387
+  },
+  {
+    "ID": 224,
+    "Artist": "cassö",
+    "Country": "United Kingdom",
+    "Streams": 138,
+    "Minutes": 296.2
+  },
+  {
+    "ID": 225,
+    "Artist": "Jão",
+    "Country": "Brazil",
+    "Streams": 137,
+    "Minutes": 370.6
+  },
+  {
+    "ID": 226,
+    "Artist": "Rochelle Jordan",
+    "Country": "Canada",
+    "Streams": 137,
+    "Minutes": 481.8
+  },
+  {
+    "ID": 227,
+    "Artist": "Shaga",
+    "Country": "France",
+    "Streams": 137,
+    "Minutes": 408.6
+  },
+  {
+    "ID": 228,
+    "Artist": "Jenni Vartiainen",
+    "Country": "Finland",
+    "Streams": 135,
+    "Minutes": 375.2
+  },
+  {
+    "ID": 229,
+    "Artist": "Ski Aggu",
+    "Country": "Germany",
+    "Streams": 133,
+    "Minutes": 292.7
+  },
+  {
+    "ID": 230,
+    "Artist": "Jesse & Joy",
+    "Country": "Mexico",
+    "Streams": 132,
+    "Minutes": 374.4
+  },
+  {
+    "ID": 231,
+    "Artist": "Pole.",
+    "Country": "Spain",
+    "Streams": 132,
+    "Minutes": 334
+  },
+  {
+    "ID": 232,
+    "Artist": "TLC",
+    "Country": "United States",
+    "Streams": 132,
+    "Minutes": 448.7
+  },
+  {
+    "ID": 233,
+    "Artist": "BROODS",
+    "Country": "New Zealand",
+    "Streams": 131,
+    "Minutes": 391.2
+  },
+  {
+    "ID": 234,
+    "Artist": "Erika de Casier",
+    "Country": "Portugal",
+    "Streams": 131,
+    "Minutes": 399.1
+  },
+  {
+    "ID": 235,
+    "Artist": "Hayley Williams",
+    "Country": "United States",
+    "Streams": 130,
+    "Minutes": 437.9
+  },
+  {
+    "ID": 236,
+    "Artist": "SALENA",
+    "Country": "Austria",
+    "Streams": 130,
+    "Minutes": 332.3
+  },
+  {
+    "ID": 237,
+    "Artist": "TEYA",
+    "Country": "Austria",
+    "Streams": 130,
+    "Minutes": 332.3
+  },
+  {
+    "ID": 238,
+    "Artist": "Abor & Tynna",
+    "Country": "Germany",
+    "Streams": 129,
+    "Minutes": 334.1
+  },
+  {
+    "ID": 239,
+    "Artist": "Robyn",
+    "Country": "Sweden",
+    "Streams": 129,
+    "Minutes": 472.2
+  },
+  {
+    "ID": 240,
+    "Artist": "Céline Dion",
+    "Country": "Canada",
+    "Streams": 128,
+    "Minutes": 392.9
+  },
+  {
+    "ID": 241,
+    "Artist": "Father John Misty",
+    "Country": "United States",
+    "Streams": 128,
+    "Minutes": 445.4
+  },
+  {
+    "ID": 242,
+    "Artist": "Olivia Rodrigo",
+    "Country": "United States",
+    "Streams": 128,
+    "Minutes": 394.8
+  },
+  {
+    "ID": 243,
+    "Artist": "villemdrillem",
+    "Country": "Estonia",
+    "Streams": 127,
+    "Minutes": 311.8
+  },
+  {
+    "ID": 244,
+    "Artist": "Caity Baser",
+    "Country": "United Kingdom",
+    "Streams": 126,
+    "Minutes": 383.2
+  },
+  {
+    "ID": 245,
+    "Artist": "Hurricane",
+    "Country": "Serbia",
+    "Streams": 126,
+    "Minutes": 332.4
+  },
+  {
+    "ID": 246,
+    "Artist": "Count Baldor",
+    "Country": "United Kingdom",
+    "Streams": 125,
+    "Minutes": 368.7
+  },
+  {
+    "ID": 247,
+    "Artist": "Dorian Electra",
+    "Country": "United States",
+    "Streams": 125,
+    "Minutes": 368.7
+  },
+  {
+    "ID": 248,
+    "Artist": "NAPA",
+    "Country": "Portugal",
+    "Streams": 125,
+    "Minutes": 368.7
+  },
+  {
+    "ID": 249,
+    "Artist": "Rihanna",
+    "Country": "Barbados",
+    "Streams": 125,
+    "Minutes": 435.2
+  },
+  {
+    "ID": 250,
+    "Artist": "Fedez",
+    "Country": "Italy",
+    "Streams": 124,
+    "Minutes": 379.9
+  },
+  {
+    "ID": 251,
+    "Artist": "MARINA",
+    "Country": "United Kingdom",
+    "Streams": 124,
+    "Minutes": 475.5
+  },
+  {
+    "ID": 252,
+    "Artist": "Calvin Harris",
+    "Country": "United Kingdom",
+    "Streams": 123,
+    "Minutes": 371.9
+  },
+  {
+    "ID": 253,
+    "Artist": "Elina Born",
+    "Country": "Estonia",
+    "Streams": 123,
+    "Minutes": 322.6
+  },
+  {
+    "ID": 254,
+    "Artist": "Nicki Minaj",
+    "Country": "Trinidad and Tobago",
+    "Streams": 123,
+    "Minutes": 368.2
+  },
+  {
+    "ID": 255,
+    "Artist": "Brit Smith",
+    "Country": "United States",
+    "Streams": 122,
+    "Minutes": 431.2
+  },
+  {
+    "ID": 256,
+    "Artist": "Lorde",
+    "Country": "New Zealand",
+    "Streams": 122,
+    "Minutes": 386.1
+  },
+  {
+    "ID": 257,
+    "Artist": "Purple Disco Machine",
+    "Country": "Germany",
+    "Streams": 122,
+    "Minutes": 367.3
+  },
+  {
+    "ID": 258,
+    "Artist": "Tyla",
+    "Country": "South Africa",
+    "Streams": 122,
+    "Minutes": 311.2
+  },
+  {
+    "ID": 259,
+    "Artist": "Ewa Farna",
+    "Country": "Czechia",
+    "Streams": 121,
+    "Minutes": 373.5
+  },
+  {
+    "ID": 260,
+    "Artist": "Medina",
+    "Country": "Denmark",
+    "Streams": 121,
+    "Minutes": 367.8
+  },
+  {
+    "ID": 261,
+    "Artist": "Girls' Generation",
+    "Country": "South Korea",
+    "Streams": 120,
+    "Minutes": 392.6
+  },
+  {
+    "ID": 262,
+    "Artist": "Go_A",
+    "Country": "Ukraine",
+    "Streams": 120,
+    "Minutes": 310.1
+  },
+  {
+    "ID": 263,
+    "Artist": "Hoàng Thùy Linh",
+    "Country": "Vietnam",
+    "Streams": 120,
+    "Minutes": 319.1
+  },
+  {
+    "ID": 264,
+    "Artist": "Whitney Houston",
+    "Country": "United States",
+    "Streams": 120,
+    "Minutes": 393
+  },
+  {
+    "ID": 265,
+    "Artist": "MICHELLE",
+    "Country": "United States",
+    "Streams": 119,
+    "Minutes": 305.3
+  },
+  {
+    "ID": 266,
+    "Artist": "Sara Bareilles",
+    "Country": "United States",
+    "Streams": 119,
+    "Minutes": 429.5
+  },
+  {
+    "ID": 267,
+    "Artist": "Elisa",
+    "Country": "Italy",
+    "Streams": 118,
+    "Minutes": 414.4
+  },
+  {
+    "ID": 268,
+    "Artist": "Mirella",
+    "Country": "Finland",
+    "Streams": 118,
+    "Minutes": 319.8
+  },
+  {
+    "ID": 269,
+    "Artist": "Caroline Polachek",
+    "Country": "United States",
+    "Streams": 117,
+    "Minutes": 334.6
+  },
+  {
+    "ID": 270,
+    "Artist": "Käärijä",
+    "Country": "Finland",
+    "Streams": 117,
+    "Minutes": 333.1
+  },
+  {
+    "ID": 271,
+    "Artist": "Maja Keuc",
+    "Country": "Slovenia",
+    "Streams": 117,
+    "Minutes": 338.2
+  },
+  {
+    "ID": 272,
+    "Artist": "Meghan Trainor",
+    "Country": "United States",
+    "Streams": 117,
+    "Minutes": 280
+  },
+  {
+    "ID": 273,
+    "Artist": "The Sam Willows",
+    "Country": "Singapore",
+    "Streams": 117,
+    "Minutes": 370
+  },
+  {
+    "ID": 274,
+    "Artist": "Sebastian Yatra",
+    "Country": "Colombia",
+    "Streams": 116,
+    "Minutes": 321
+  },
+  {
+    "ID": 275,
+    "Artist": "Zoë Më",
+    "Country": "Switzerland",
+    "Streams": 116,
+    "Minutes": 320
+  },
+  {
+    "ID": 276,
+    "Artist": "Lost Frequencies",
+    "Country": "Belgium",
+    "Streams": 115,
+    "Minutes": 283.2
+  },
+  {
+    "ID": 277,
+    "Artist": "Trueno",
+    "Country": "Argentina",
+    "Streams": 115,
+    "Minutes": 295.3
+  },
+  {
+    "ID": 278,
+    "Artist": "AILEE",
+    "Country": "United States",
+    "Streams": 114,
+    "Minutes": 322.2
+  },
+  {
+    "ID": 279,
+    "Artist": "Anastacia",
+    "Country": "United States",
+    "Streams": 114,
+    "Minutes": 412
+  },
+  {
+    "ID": 280,
+    "Artist": "Haloo Helsinki!",
+    "Country": "Finland",
+    "Streams": 114,
+    "Minutes": 433.4
+  },
+  {
+    "ID": 281,
+    "Artist": "Kesha",
+    "Country": "United States",
+    "Streams": 114,
+    "Minutes": 316
+  },
+  {
+    "ID": 282,
+    "Artist": "Ricki-Lee",
+    "Country": "Australia",
+    "Streams": 114,
+    "Minutes": 334
+  },
+  {
+    "ID": 283,
+    "Artist": "Madame",
+    "Country": "Italy",
+    "Streams": 113,
+    "Minutes": 347.6
+  },
+  {
+    "ID": 284,
+    "Artist": "Nicki Nicole",
+    "Country": "Argentina",
+    "Streams": 113,
+    "Minutes": 391.2
+  },
+  {
+    "ID": 285,
+    "Artist": "Quevedo",
+    "Country": "Spain",
+    "Streams": 113,
+    "Minutes": 344.2
+  },
+  {
+    "ID": 286,
+    "Artist": "Rusha",
+    "Country": "Kazakhstan",
+    "Streams": 113,
+    "Minutes": 273.3
+  },
+  {
+    "ID": 287,
+    "Artist": "Shirin David",
+    "Country": "Germany",
+    "Streams": 113,
+    "Minutes": 247.8
+  },
+  {
+    "ID": 288,
+    "Artist": "Villano Antillano",
+    "Country": "Puerto Rico",
+    "Streams": 113,
+    "Minutes": 344.3
+  },
+  {
+    "ID": 289,
+    "Artist": "Derya Uluğ",
+    "Country": "Turkey",
+    "Streams": 112,
+    "Minutes": 300.6
+  },
+  {
+    "ID": 290,
+    "Artist": "Lena Park",
+    "Country": "United States",
+    "Streams": 112,
+    "Minutes": 492.2
+  },
+  {
+    "ID": 291,
+    "Artist": "P!nk",
+    "Country": "United States",
+    "Streams": 112,
+    "Minutes": 367.4
+  },
+  {
+    "ID": 292,
+    "Artist": "Rose Villain",
+    "Country": "Italy",
+    "Streams": 112,
+    "Minutes": 330.9
+  },
+  {
+    "ID": 293,
+    "Artist": "Thomas Day",
+    "Country": "United States",
+    "Streams": 112,
+    "Minutes": 249.3
+  },
+  {
+    "ID": 294,
+    "Artist": "Galantis",
+    "Country": "Sweden",
+    "Streams": 111,
+    "Minutes": 316.2
+  },
+  {
+    "ID": 295,
+    "Artist": "Glasperlenspiel",
+    "Country": "Germany",
+    "Streams": 111,
+    "Minutes": 323.8
+  },
+  {
+    "ID": 296,
+    "Artist": "Lexie Liu",
+    "Country": "China",
+    "Streams": 111,
+    "Minutes": 325.5
+  },
+  {
+    "ID": 297,
+    "Artist": "Madison Beer",
+    "Country": "United States",
+    "Streams": 111,
+    "Minutes": 311.5
+  },
+  {
+    "ID": 298,
+    "Artist": "Mares",
+    "Country": "Sweden",
+    "Streams": 111,
+    "Minutes": 364.6
+  },
+  {
+    "ID": 299,
+    "Artist": "Minelli",
+    "Country": "Romania",
+    "Streams": 111,
+    "Minutes": 288.6
+  },
+  {
+    "ID": 300,
+    "Artist": "Sofie Royer",
+    "Country": "Austria",
+    "Streams": 111,
+    "Minutes": 435.1
+  },
+  {
+    "ID": 301,
+    "Artist": "Ado",
+    "Country": "Japan",
+    "Streams": 110,
+    "Minutes": 329.7
+  },
+  {
+    "ID": 302,
+    "Artist": "Emma Hoet",
+    "Country": "France",
+    "Streams": 110,
+    "Minutes": 298.8
+  },
+  {
+    "ID": 303,
+    "Artist": "King Princess",
+    "Country": "United States",
+    "Streams": 110,
+    "Minutes": 323.6
+  },
+  {
+    "ID": 304,
+    "Artist": "Sofi Tukker",
+    "Country": "United States",
+    "Streams": 110,
+    "Minutes": 279.6
+  },
+  {
+    "ID": 305,
+    "Artist": "Foxes",
+    "Country": "United Kingdom",
+    "Streams": 109,
+    "Minutes": 384.7
+  },
+  {
+    "ID": 306,
+    "Artist": "Kygo",
+    "Country": "Norway",
+    "Streams": 109,
+    "Minutes": 322.9
+  },
+  {
+    "ID": 307,
+    "Artist": "Pale Waves",
+    "Country": "United Kingdom",
+    "Streams": 109,
+    "Minutes": 277.1
+  },
+  {
+    "ID": 308,
+    "Artist": "Slimane",
+    "Country": "France",
+    "Streams": 109,
+    "Minutes": 293.1
+  },
+  {
+    "ID": 309,
+    "Artist": "AgroPlay",
+    "Country": "Brazil",
+    "Streams": 108,
+    "Minutes": 242.7
+  },
+  {
+    "ID": 310,
+    "Artist": "mgk",
+    "Country": "United Kingdom",
+    "Streams": 108,
+    "Minutes": 282.8
+  },
+  {
+    "ID": 311,
+    "Artist": "Monique",
+    "Country": "Lithuania",
+    "Streams": 108,
+    "Minutes": 333.3
+  },
+  {
+    "ID": 312,
+    "Artist": "The Weeknd",
+    "Country": "Canada",
+    "Streams": 108,
+    "Minutes": 319.4
+  },
+  {
+    "ID": 313,
+    "Artist": "Manal",
+    "Country": "Morocco",
+    "Streams": 107,
+    "Minutes": 296.7
+  },
+  {
+    "ID": 314,
+    "Artist": "Mentissa",
+    "Country": "Belgium",
+    "Streams": 107,
+    "Minutes": 292.7
+  },
+  {
+    "ID": 315,
+    "Artist": "yeule",
+    "Country": "Singapore",
+    "Streams": 107,
+    "Minutes": 349.7
+  },
+  {
+    "ID": 316,
+    "Artist": "Paula Cole",
+    "Country": "United Kingdom",
+    "Streams": 106,
+    "Minutes": 515.7
+  },
+  {
+    "ID": 317,
+    "Artist": "Aleyna Tilki",
+    "Country": "Turkey",
+    "Streams": 105,
+    "Minutes": 263
+  },
+  {
+    "ID": 318,
+    "Artist": "Gabrielle",
+    "Country": "Norway",
+    "Streams": 105,
+    "Minutes": 310.5
+  },
+  {
+    "ID": 319,
+    "Artist": "Her's",
+    "Country": "United Kingdom",
+    "Streams": 105,
+    "Minutes": 388.2
+  },
+  {
+    "ID": 320,
+    "Artist": "Ozuna",
+    "Country": "Puerto Rico",
+    "Streams": 105,
+    "Minutes": 287.5
+  },
+  {
+    "ID": 321,
+    "Artist": "Selena Gomez",
+    "Country": "United States",
+    "Streams": 105,
+    "Minutes": 296
+  },
+  {
+    "ID": 322,
+    "Artist": "Young Miko",
+    "Country": "Puerto Rico",
+    "Streams": 105,
+    "Minutes": 312.1
+  },
+  {
+    "ID": 323,
+    "Artist": "Delta Goodrem",
+    "Country": "Australia",
+    "Streams": 104,
+    "Minutes": 344.7
+  },
+  {
+    "ID": 324,
+    "Artist": "Erika Vikman",
+    "Country": "Finland",
+    "Streams": 104,
+    "Minutes": 281.4
+  },
+  {
+    "ID": 325,
+    "Artist": "Knox",
+    "Country": "United States",
+    "Streams": 104,
+    "Minutes": 324
+  },
+  {
+    "ID": 326,
+    "Artist": "Madonna",
+    "Country": "United States",
+    "Streams": 104,
+    "Minutes": 455.4
+  },
+  {
+    "ID": 327,
+    "Artist": "Hov1",
+    "Country": "Sweden",
+    "Streams": 103,
+    "Minutes": 309.7
+  },
+  {
+    "ID": 328,
+    "Artist": "TAEYEON",
+    "Country": "South Korea",
+    "Streams": 103,
+    "Minutes": 336.4
+  },
+  {
+    "ID": 329,
+    "Artist": "Tim Bendzko",
+    "Country": "Germany",
+    "Streams": 103,
+    "Minutes": 287.9
+  },
+  {
+    "ID": 330,
+    "Artist": "Bladee",
+    "Country": "Sweden",
+    "Streams": 102,
+    "Minutes": 266.9
+  },
+  {
+    "ID": 331,
+    "Artist": "ELIO",
+    "Country": "Canada",
+    "Streams": 102,
+    "Minutes": 262.1
+  },
+  {
+    "ID": 332,
+    "Artist": "Katy B",
+    "Country": "United Kingdom",
+    "Streams": 102,
+    "Minutes": 332.8
+  },
+  {
+    "ID": 333,
+    "Artist": "Rauw Alejandro",
+    "Country": "Puerto Rico",
+    "Streams": 102,
+    "Minutes": 276.9
+  },
+  {
+    "ID": 334,
+    "Artist": "Claire Laffut",
+    "Country": "Belgium",
+    "Streams": 101,
+    "Minutes": 335.8
+  },
+  {
+    "ID": 335,
+    "Artist": "Mark Ronson",
+    "Country": "United Kingdom",
+    "Streams": 101,
+    "Minutes": 329.9
+  },
+  {
+    "ID": 336,
+    "Artist": "sangiovanni",
+    "Country": "Italy",
+    "Streams": 101,
+    "Minutes": 252.3
+  },
+  {
+    "ID": 337,
+    "Artist": "Suzan & Freek",
+    "Country": "Netherlands",
+    "Streams": 101,
+    "Minutes": 268.5
+  },
+  {
+    "ID": 338,
+    "Artist": "Zdechły Osa",
+    "Country": "Poland",
+    "Streams": 101,
+    "Minutes": 243.5
+  },
+  {
+    "ID": 339,
+    "Artist": "Hayley Kiyoko",
+    "Country": "United States",
+    "Streams": 100,
+    "Minutes": 280.7
+  },
+  {
+    "ID": 340,
+    "Artist": "Louane",
+    "Country": "France",
+    "Streams": 100,
+    "Minutes": 277.6
+  },
+  {
+    "ID": 341,
+    "Artist": "RANI",
+    "Country": "Netherlands",
+    "Streams": 100,
+    "Minutes": 291.8
+  }
+]
