@@ -367,6 +367,15 @@ h3 {
   flex-direction: column;
 }
 
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #fff7dc;
+  border-radius: 4px;
+}
+
 @media (max-width: 768px) {
   body {
     overflow-x: hidden;
