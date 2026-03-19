@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "A template for HTML and CSS",
   "main": "en-home.html",
-  "scripts": {
-    "start": "serve"
-  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "start": "serve"
+},
   "keywords": [
     "html",
     "css"
@@ -13,11 +16,11 @@
   "author": "Ives van Hoorne",
   "license": "MIT",
   "devDependencies": {
-    "serve": "^11.2.0",
+    "@sveltejs/vite-plugin-svelte": "^7.0.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.2.0"
-  },
-  "dependencies": {
-    "svelte": "5.54.0"
+    "eslint": "^7.2.0",
+    "serve": "^11.2.0",
+    "svelte": "^5.54.0",
+    "vite": "^8.0.1"
   }
 }
