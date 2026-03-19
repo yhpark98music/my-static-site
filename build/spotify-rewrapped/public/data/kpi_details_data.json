@@ -1,0 +1,1084 @@
+{
+  "total": [
+    {
+      "top": 1,
+      "top_artist": "Annalisa",
+      "art_str": 2610,
+      "art_min": 8132.8,
+      "top_song": "Mon Amour",
+      "top_song_art": "Annalisa",
+      "top_song_str": 506,
+      "top_song_min": 1688
+    },
+    {
+      "top": 2,
+      "top_artist": "Kelly Clarkson",
+      "art_str": 2097,
+      "art_min": 6914.1,
+      "top_song": "Sinceramente",
+      "top_song_art": "Annalisa",
+      "top_song_str": 472,
+      "top_song_min": 1672
+    },
+    {
+      "top": 3,
+      "top_artist": "NATHY PELUSO",
+      "art_str": 1648,
+      "art_min": 4904.4,
+      "top_song": "Hold Me Closer",
+      "top_song_art": "Cornelia Jakobs",
+      "top_song_str": 375,
+      "top_song_min": 1118
+    },
+    {
+      "top": 4,
+      "top_artist": "FLETCHER",
+      "art_str": 1572,
+      "art_min": 4333,
+      "top_song": "Kisah Sempurna",
+      "top_song_art": "Mahalini",
+      "top_song_str": 338,
+      "top_song_min": 1453
+    },
+    {
+      "top": 5,
+      "top_artist": "Emilia",
+      "art_str": 1545,
+      "art_min": 3984.1,
+      "top_song": "Escapism.",
+      "top_song_art": "RAYE, 070 Shake",
+      "top_song_str": 313,
+      "top_song_min": 1406
+    }
+  ],
+  "by_month": [
+    {
+      "year": 2021,
+      "month": 2,
+      "top_artist": "Pale Waves",
+      "art_str": 26,
+      "art_min": 62,
+      "top_song": "If It Ain't Me",
+      "top_song_art": "Dua Lipa",
+      "top_song_str": 15,
+      "top_song_min": 43
+    },
+    {
+      "year": 2021,
+      "month": 3,
+      "top_artist": "FLETCHER",
+      "art_str": 19,
+      "art_min": 48,
+      "top_song": "Voy a quedarme",
+      "top_song_art": "Blas Cantó",
+      "top_song_str": 13,
+      "top_song_min": 26
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "top_artist": "Hooverphonic",
+      "art_str": 31,
+      "art_min": 90,
+      "top_song": "Mad About You",
+      "top_song_art": "Hooverphonic",
+      "top_song_str": 12,
+      "top_song_min": 36
+    },
+    {
+      "year": 2021,
+      "month": 5,
+      "top_artist": "Annalisa",
+      "art_str": 86,
+      "art_min": 234,
+      "top_song": "Loco Loco",
+      "top_song_art": "Hurricane",
+      "top_song_str": 33,
+      "top_song_min": 93
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "top_artist": "FLETCHER",
+      "art_str": 69,
+      "art_min": 193,
+      "top_song": "ZITTI E BUONI",
+      "top_song_art": "Måneskin",
+      "top_song_str": 32,
+      "top_song_min": 90
+    },
+    {
+      "year": 2021,
+      "month": 7,
+      "top_artist": "FLETCHER",
+      "art_str": 44,
+      "art_min": 129,
+      "top_song": "You for Me",
+      "top_song_art": "Rita Ora, Sigala",
+      "top_song_str": 21,
+      "top_song_min": 58
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "top_artist": "Maan",
+      "art_str": 80,
+      "art_min": 216,
+      "top_song": "Blijven Slapen",
+      "top_song_art": "Maan, Snelle",
+      "top_song_str": 41,
+      "top_song_min": 114
+    },
+    {
+      "year": 2021,
+      "month": 9,
+      "top_artist": "Kacey Musgraves",
+      "art_str": 98,
+      "art_min": 248,
+      "top_song": "Troca de Calçada",
+      "top_song_art": "Marília Mendonça",
+      "top_song_str": 50,
+      "top_song_min": 164
+    },
+    {
+      "year": 2021,
+      "month": 10,
+      "top_artist": "Claire Laffut",
+      "art_str": 86,
+      "art_min": 287,
+      "top_song": "Easy On Me",
+      "top_song_art": "Adele",
+      "top_song_str": 31,
+      "top_song_min": 96
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "top_artist": "Adele",
+      "art_str": 77,
+      "art_min": 272,
+      "top_song": "I Wish",
+      "top_song_art": "Joel Corry, Mabel",
+      "top_song_str": 51,
+      "top_song_min": 134
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "top_artist": "Angèle",
+      "art_str": 99,
+      "art_min": 333,
+      "top_song": "Let Them Know",
+      "top_song_art": "Mabel",
+      "top_song_str": 41,
+      "top_song_min": 99
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "top_artist": "Adele",
+      "art_str": 42,
+      "art_min": 172,
+      "top_song": "Sisa Rasa",
+      "top_song_art": "Mahalini",
+      "top_song_str": 20,
+      "top_song_min": 74
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "top_artist": "Angèle",
+      "art_str": 29,
+      "art_min": 88,
+      "top_song": "I Suck At Being Lonely",
+      "top_song_art": "Charley",
+      "top_song_str": 27,
+      "top_song_min": 71
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "top_artist": "Cornelia Jakobs",
+      "art_str": 98,
+      "art_min": 290,
+      "top_song": "Hold Me Closer",
+      "top_song_art": "Cornelia Jakobs",
+      "top_song_str": 73,
+      "top_song_min": 209
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "top_artist": "Cornelia Jakobs",
+      "art_str": 69,
+      "art_min": 205,
+      "top_song": "Hold Me Closer",
+      "top_song_art": "Cornelia Jakobs",
+      "top_song_str": 40,
+      "top_song_min": 123
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "top_artist": "Cornelia Jakobs",
+      "art_str": 56,
+      "art_min": 165,
+      "top_song": "Hold Me Closer",
+      "top_song_art": "Cornelia Jakobs",
+      "top_song_str": 34,
+      "top_song_min": 104
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "top_artist": "Cornelia Jakobs",
+      "art_str": 77,
+      "art_min": 222,
+      "top_song": "Kisah Sempurna",
+      "top_song_art": "Mahalini",
+      "top_song_str": 45,
+      "top_song_min": 166
+    },
+    {
+      "year": 2022,
+      "month": 7,
+      "top_artist": "Mahalini",
+      "art_str": 69,
+      "art_min": 278,
+      "top_song": "Kisah Sempurna",
+      "top_song_art": "Mahalini",
+      "top_song_str": 60,
+      "top_song_min": 247
+    },
+    {
+      "year": 2022,
+      "month": 8,
+      "top_artist": "Becky Hill",
+      "art_str": 70,
+      "art_min": 175,
+      "top_song": "HISTORY",
+      "top_song_art": "Becky Hill, Joel Corry",
+      "top_song_str": 41,
+      "top_song_min": 101
+    },
+    {
+      "year": 2022,
+      "month": 9,
+      "top_artist": "FLETCHER",
+      "art_str": 137,
+      "art_min": 387,
+      "top_song": "HISTORY",
+      "top_song_art": "Becky Hill, Joel Corry",
+      "top_song_str": 25,
+      "top_song_min": 73
+    },
+    {
+      "year": 2022,
+      "month": 10,
+      "top_artist": "Maan",
+      "art_str": 89,
+      "art_min": 263,
+      "top_song": "Unholy",
+      "top_song_art": "Sam Smith, Kim Petras",
+      "top_song_str": 27,
+      "top_song_min": 70
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "top_artist": "Maan",
+      "art_str": 104,
+      "art_min": 324,
+      "top_song": "En El Coche",
+      "top_song_art": "Aitana",
+      "top_song_str": 41,
+      "top_song_min": 85
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "top_artist": "Annalisa",
+      "art_str": 85,
+      "art_min": 284,
+      "top_song": "Escapism.",
+      "top_song_art": "RAYE, 070 Shake",
+      "top_song_str": 49,
+      "top_song_min": 222
+    },
+    {
+      "year": 2023,
+      "month": 1,
+      "top_artist": "Julia Lov",
+      "art_str": 99,
+      "art_min": 287,
+      "top_song": "Regnar över Stockholm",
+      "top_song_art": "Julia Lov",
+      "top_song_str": 49,
+      "top_song_min": 140
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "top_artist": "Bizarrap",
+      "art_str": 123,
+      "art_min": 372,
+      "top_song": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "top_song_art": "Ptazeta, Bizarrap",
+      "top_song_str": 72,
+      "top_song_min": 193
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "top_artist": "Shakira",
+      "art_str": 164,
+      "art_min": 553,
+      "top_song": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "top_song_art": "Shakira, Bizarrap",
+      "top_song_str": 84,
+      "top_song_min": 298
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "top_artist": "Annalisa",
+      "art_str": 137,
+      "art_min": 449,
+      "top_song": "Mon Amour",
+      "top_song_art": "Annalisa",
+      "top_song_str": 112,
+      "top_song_min": 372
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "top_artist": "Annalisa",
+      "art_str": 73,
+      "art_min": 244,
+      "top_song": "Mon Amour",
+      "top_song_art": "Annalisa",
+      "top_song_str": 49,
+      "top_song_min": 165
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "top_artist": "Kylie Minogue",
+      "art_str": 117,
+      "art_min": 363,
+      "top_song": "If Only I",
+      "top_song_art": "Loud Luxury, Bebe Rexha, Two Friends",
+      "top_song_str": 46,
+      "top_song_min": 109
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "top_artist": "Olivia O'Brien",
+      "art_str": 56,
+      "art_min": 181,
+      "top_song": "i should've fucked your brother",
+      "top_song_art": "Olivia O'Brien",
+      "top_song_str": 52,
+      "top_song_min": 169
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "top_artist": "Kelly Clarkson",
+      "art_str": 71,
+      "art_min": 236,
+      "top_song": "i should've fucked your brother",
+      "top_song_art": "Olivia O'Brien",
+      "top_song_str": 44,
+      "top_song_min": 137
+    },
+    {
+      "year": 2023,
+      "month": 9,
+      "top_artist": "Charlotte Cardin",
+      "art_str": 104,
+      "art_min": 315,
+      "top_song": "Coma",
+      "top_song_art": "Cassadee Pope, Taylor Acorn",
+      "top_song_str": 76,
+      "top_song_min": 261
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "top_artist": "Troye Sivan",
+      "art_str": 121,
+      "art_min": 395,
+      "top_song": "Honey",
+      "top_song_art": "Troye Sivan",
+      "top_song_str": 59,
+      "top_song_min": 203
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "top_artist": "Emilia",
+      "art_str": 186,
+      "art_min": 463,
+      "top_song": "La_Original.mp3",
+      "top_song_art": "Emilia, TINI",
+      "top_song_str": 105,
+      "top_song_min": 244
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "top_artist": "Charlotte Cardin",
+      "art_str": 137,
+      "art_min": 403,
+      "top_song": "The One That I Want",
+      "top_song_art": "Peg Parnevik",
+      "top_song_str": 44,
+      "top_song_min": 118
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "top_artist": "Emilia",
+      "art_str": 187,
+      "art_min": 476,
+      "top_song": "yes, and?",
+      "top_song_art": "Ariana Grande",
+      "top_song_str": 99,
+      "top_song_min": 349
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "top_artist": "Emilia",
+      "art_str": 159,
+      "art_min": 439,
+      "top_song": "Sinceramente",
+      "top_song_art": "Annalisa",
+      "top_song_str": 105,
+      "top_song_min": 373
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "top_artist": "Annalisa",
+      "art_str": 172,
+      "art_min": 588,
+      "top_song": "Sinceramente",
+      "top_song_art": "Annalisa",
+      "top_song_str": 89,
+      "top_song_min": 318
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "top_artist": "Ariana Grande",
+      "art_str": 83,
+      "art_min": 287,
+      "top_song": "Karma's A Bitch",
+      "top_song_art": "Brit Smith",
+      "top_song_str": 75,
+      "top_song_min": 278
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "top_artist": "Annalisa",
+      "art_str": 139,
+      "art_min": 443,
+      "top_song": "Good Luck, Babe!",
+      "top_song_art": "Chappell Roan",
+      "top_song_str": 104,
+      "top_song_min": 369
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "top_artist": "Annalisa",
+      "art_str": 99,
+      "art_min": 325,
+      "top_song": "30℃",
+      "top_song_art": "ANNA",
+      "top_song_str": 88,
+      "top_song_min": 207
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "top_artist": "Maria Becerra",
+      "art_str": 117,
+      "art_min": 238,
+      "top_song": "IMAN (Two of Us)",
+      "top_song_art": "Maria Becerra",
+      "top_song_str": 117,
+      "top_song_min": 238
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "top_artist": "Taylor Acorn",
+      "art_str": 192,
+      "art_min": 570,
+      "top_song": "Guess featuring Billie Eilish",
+      "top_song_art": "Charli xcx, Billie Eilish",
+      "top_song_str": 63,
+      "top_song_min": 148
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "top_artist": "Roxy Dekker",
+      "art_str": 117,
+      "art_min": 253,
+      "top_song": "Diet Pepsi",
+      "top_song_art": "Addison Rae",
+      "top_song_str": 59,
+      "top_song_min": 162
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "top_artist": "Sabrina Carpenter",
+      "art_str": 76,
+      "art_min": 230,
+      "top_song": "En vän till mig",
+      "top_song_art": "Wiktoria",
+      "top_song_str": 51,
+      "top_song_min": 133
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "top_artist": "Addison Rae",
+      "art_str": 99,
+      "art_min": 266,
+      "top_song": "Aquamarine",
+      "top_song_art": "Addison Rae",
+      "top_song_str": 85,
+      "top_song_min": 226
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "top_artist": "Marina Satti",
+      "art_str": 68,
+      "art_min": 198,
+      "top_song": "ANATOLI",
+      "top_song_art": "Marina Satti",
+      "top_song_str": 52,
+      "top_song_min": 150
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "top_artist": "DOROFEEVA",
+      "art_str": 126,
+      "art_min": 410,
+      "top_song": "Кохаю, аленезовсім",
+      "top_song_art": "DOROFEEVA",
+      "top_song_str": 116,
+      "top_song_min": 385
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "top_artist": "Molly Sandén",
+      "art_str": 72,
+      "art_min": 218,
+      "top_song": "CHIAMO IO CHIAMI TU",
+      "top_song_art": "Gaia",
+      "top_song_str": 50,
+      "top_song_min": 181
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "top_artist": "Irina Rimes",
+      "art_str": 159,
+      "art_min": 555,
+      "top_song": "Să nu uiți cât te-am iubit",
+      "top_song_art": "Irina Rimes",
+      "top_song_str": 123,
+      "top_song_min": 402
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "top_artist": "FOUX",
+      "art_str": 75,
+      "art_min": 238,
+      "top_song": "Мистецтво",
+      "top_song_art": "Roxolana",
+      "top_song_str": 71,
+      "top_song_min": 168
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "top_artist": "Guitarricadelafuente",
+      "art_str": 166,
+      "art_min": 440,
+      "top_song": "Zjerm",
+      "top_song_art": "Shkodra Elektronike",
+      "top_song_str": 91,
+      "top_song_min": 279
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "top_artist": "Addison Rae",
+      "art_str": 71,
+      "art_min": 225,
+      "top_song": "Fame is a Gun",
+      "top_song_art": "Addison Rae",
+      "top_song_str": 42,
+      "top_song_min": 128
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "top_artist": "Zara Larsson",
+      "art_str": 180,
+      "art_min": 571,
+      "top_song": "Midnight Sun",
+      "top_song_art": "Zara Larsson",
+      "top_song_str": 150,
+      "top_song_min": 472
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "top_artist": "Marina Sena",
+      "art_str": 342,
+      "art_min": 1266,
+      "top_song": "Ouro de Tolo",
+      "top_song_art": "Marina Sena",
+      "top_song_str": 85,
+      "top_song_min": 420
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "top_artist": "Marina Sena",
+      "art_str": 295,
+      "art_min": 1036,
+      "top_song": "WHERE IS MY HUSBAND!",
+      "top_song_art": "RAYE",
+      "top_song_str": 71,
+      "top_song_min": 230
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "top_artist": "Marina Sena",
+      "art_str": 210,
+      "art_min": 703,
+      "top_song": "Dilemas da vida moderna",
+      "top_song_art": "Carol Biazin",
+      "top_song_str": 47,
+      "top_song_min": 109
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "top_artist": "ROSALÍA",
+      "art_str": 242,
+      "art_min": 726,
+      "top_song": "Divinize",
+      "top_song_art": "ROSALÍA",
+      "top_song_str": 42,
+      "top_song_min": 162
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "top_artist": "Marina Sena",
+      "art_str": 247,
+      "art_min": 782,
+      "top_song": "Otra Noche de Llorar",
+      "top_song_art": "Mon Laferte",
+      "top_song_str": 62,
+      "top_song_min": 222
+    }
+  ],
+  "by_year_artist": [
+    {
+      "year": 2021,
+      "top": 1,
+      "top_artist": "FLETCHER",
+      "str": 512,
+      "min": 1360
+    },
+    {
+      "year": 2021,
+      "top": 2,
+      "top_artist": "NATHY PELUSO",
+      "str": 253,
+      "min": 811
+    },
+    {
+      "year": 2021,
+      "top": 3,
+      "top_artist": "Annalisa",
+      "str": 242,
+      "min": 659
+    },
+    {
+      "year": 2021,
+      "top": 4,
+      "top_artist": "Kacey Musgraves",
+      "str": 240,
+      "min": 660
+    },
+    {
+      "year": 2021,
+      "top": 5,
+      "top_artist": "Maan",
+      "str": 233,
+      "min": 624
+    },
+    {
+      "year": 2022,
+      "top": 1,
+      "top_artist": "Maan",
+      "str": 482,
+      "min": 1340
+    },
+    {
+      "year": 2022,
+      "top": 2,
+      "top_artist": "Cornelia Jakobs",
+      "str": 466,
+      "min": 1370
+    },
+    {
+      "year": 2022,
+      "top": 3,
+      "top_artist": "Mahalini",
+      "str": 369,
+      "min": 1438
+    },
+    {
+      "year": 2022,
+      "top": 4,
+      "top_artist": "FLETCHER",
+      "str": 365,
+      "min": 983
+    },
+    {
+      "year": 2022,
+      "top": 5,
+      "top_artist": "Becky Hill",
+      "str": 288,
+      "min": 800
+    },
+    {
+      "year": 2023,
+      "top": 1,
+      "top_artist": "Annalisa",
+      "str": 751,
+      "min": 2444
+    },
+    {
+      "year": 2023,
+      "top": 2,
+      "top_artist": "Kelly Clarkson",
+      "str": 731,
+      "min": 2584
+    },
+    {
+      "year": 2023,
+      "top": 3,
+      "top_artist": "Bizarrap",
+      "str": 593,
+      "min": 1887
+    },
+    {
+      "year": 2023,
+      "top": 4,
+      "top_artist": "Emilia",
+      "str": 490,
+      "min": 1363
+    },
+    {
+      "year": 2023,
+      "top": 5,
+      "top_artist": "Charlotte Cardin",
+      "str": 486,
+      "min": 1459
+    },
+    {
+      "year": 2024,
+      "top": 1,
+      "top_artist": "Emilia",
+      "str": 854,
+      "min": 2209
+    },
+    {
+      "year": 2024,
+      "top": 2,
+      "top_artist": "Annalisa",
+      "str": 839,
+      "min": 2822
+    },
+    {
+      "year": 2024,
+      "top": 3,
+      "top_artist": "NATHY PELUSO",
+      "str": 753,
+      "min": 2197
+    },
+    {
+      "year": 2024,
+      "top": 4,
+      "top_artist": "Kelly Clarkson",
+      "str": 555,
+      "min": 1942
+    },
+    {
+      "year": 2024,
+      "top": 5,
+      "top_artist": "Ariana Grande",
+      "str": 496,
+      "min": 1756
+    },
+    {
+      "year": 2025,
+      "top": 1,
+      "top_artist": "Marina Sena",
+      "str": 1410,
+      "min": 4889
+    },
+    {
+      "year": 2025,
+      "top": 2,
+      "top_artist": "Oklou",
+      "str": 772,
+      "min": 2435
+    },
+    {
+      "year": 2025,
+      "top": 3,
+      "top_artist": "Zara Larsson",
+      "str": 614,
+      "min": 1881
+    },
+    {
+      "year": 2025,
+      "top": 4,
+      "top_artist": "Molly Sandén",
+      "str": 513,
+      "min": 1533
+    },
+    {
+      "year": 2025,
+      "top": 5,
+      "top_artist": "PinkPantheress",
+      "str": 459,
+      "min": 1167
+    }
+  ],
+  "by_year_song": [
+    {
+      "year": 2021,
+      "top": 1,
+      "song": "Blijven Slapen",
+      "top_artist": "Snelle, Maan",
+      "str": 135,
+      "min": 365
+    },
+    {
+      "year": 2021,
+      "top": 2,
+      "song": "Bitter",
+      "top_artist": "FLETCHER, Kito",
+      "str": 103,
+      "min": 267
+    },
+    {
+      "year": 2021,
+      "top": 3,
+      "song": "Let Them Know",
+      "top_artist": "Mabel",
+      "str": 95,
+      "min": 222
+    },
+    {
+      "year": 2021,
+      "top": 4,
+      "song": "Troca de Calçada",
+      "top_artist": "Marília Mendonça",
+      "str": 94,
+      "min": 298
+    },
+    {
+      "year": 2021,
+      "top": 5,
+      "song": "If It Ain't Me",
+      "top_artist": "Dua Lipa",
+      "str": 93,
+      "min": 268
+    },
+    {
+      "year": 2022,
+      "top": 1,
+      "song": "Hold Me Closer",
+      "top_artist": "Cornelia Jakobs",
+      "str": 316,
+      "min": 930
+    },
+    {
+      "year": 2022,
+      "top": 2,
+      "song": "Kisah Sempurna",
+      "top_artist": "Mahalini",
+      "str": 211,
+      "min": 876
+    },
+    {
+      "year": 2022,
+      "top": 3,
+      "song": "Kyynelii",
+      "top_artist": "Evelina",
+      "str": 131,
+      "min": 393
+    },
+    {
+      "year": 2022,
+      "top": 4,
+      "song": "Ongewoon",
+      "top_artist": "Pommelien Thijs",
+      "str": 119,
+      "min": 292
+    },
+    {
+      "year": 2022,
+      "top": 5,
+      "song": "Sisa Rasa",
+      "top_artist": "Mahalini",
+      "str": 115,
+      "min": 431
+    },
+    {
+      "year": 2023,
+      "top": 1,
+      "song": "Mon Amour",
+      "top_artist": "Annalisa",
+      "str": 308,
+      "min": 1028
+    },
+    {
+      "year": 2023,
+      "top": 2,
+      "song": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "top_artist": "Shakira, Bizarrap",
+      "str": 296,
+      "min": 1048
+    },
+    {
+      "year": 2023,
+      "top": 3,
+      "song": "Escapism.",
+      "top_artist": "RAYE, 070 Shake",
+      "str": 189,
+      "min": 849
+    },
+    {
+      "year": 2023,
+      "top": 4,
+      "song": "i should've fucked your brother",
+      "top_artist": "Olivia O'Brien",
+      "str": 178,
+      "min": 574
+    },
+    {
+      "year": 2023,
+      "top": 5,
+      "song": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "top_artist": "Ptazeta, Bizarrap",
+      "str": 174,
+      "min": 464
+    },
+    {
+      "year": 2024,
+      "top": 1,
+      "song": "Sinceramente",
+      "top_artist": "Annalisa",
+      "str": 411,
+      "min": 1453
+    },
+    {
+      "year": 2024,
+      "top": 2,
+      "song": "Good Luck, Babe!",
+      "top_artist": "Chappell Roan",
+      "str": 228,
+      "min": 808
+    },
+    {
+      "year": 2024,
+      "top": 3,
+      "song": "30℃",
+      "top_artist": "ANNA",
+      "str": 223,
+      "min": 524
+    },
+    {
+      "year": 2024,
+      "top": 4,
+      "song": "IMAN (Two Of US)",
+      "top_artist": "Maria Becerra",
+      "str": 201,
+      "min": 408
+    },
+    {
+      "year": 2024,
+      "top": 5,
+      "song": "ZARI",
+      "top_artist": "Marina Satti",
+      "str": 197,
+      "min": 592
+    },
+    {
+      "year": 2025,
+      "top": 1,
+      "song": "Midnight Sun",
+      "top_artist": "Zara Larsson",
+      "str": 311,
+      "min": 971
+    },
+    {
+      "year": 2025,
+      "top": 2,
+      "song": "Tur i oturen",
+      "top_artist": "Molly Sandén",
+      "str": 267,
+      "min": 782
+    },
+    {
+      "year": 2025,
+      "top": 3,
+      "song": "Să nu uiți cât te-am iubit",
+      "top_artist": "Irina Rimes",
+      "str": 213,
+      "min": 694
+    },
+    {
+      "year": 2025,
+      "top": 4,
+      "song": "back to friends",
+      "top_artist": "sombr",
+      "str": 212,
+      "min": 715
+    },
+    {
+      "year": 2025,
+      "top": 5,
+      "song": "Ouro de Tolo",
+      "top_artist": "Marina Sena",
+      "str": 197,
+      "min": 954
+    }
+  ]
+}

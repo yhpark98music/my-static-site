@@ -1,0 +1,430 @@
+[
+  {
+    "language": "English",
+    "n_songs": 6506,
+    "total_streams": 59362,
+    "total_minutes": 178387.6,
+    "top_artists": "Kelly Clarkson, FLETCHER, Zara Larsson"
+  },
+  {
+    "language": "Spanish",
+    "n_songs": 721,
+    "total_streams": 10484,
+    "total_minutes": 28879.3,
+    "top_artists": "NATHY PELUSO, Emilia, Bizarrap"
+  },
+  {
+    "language": "Italian",
+    "n_songs": 577,
+    "total_streams": 8334,
+    "total_minutes": 24912.3,
+    "top_artists": "Annalisa, Angelina Mango, ANNA"
+  },
+  {
+    "language": "Swedish",
+    "n_songs": 468,
+    "total_streams": 6227,
+    "total_minutes": 17143.2,
+    "top_artists": "Molly Sandén, Hanna Ferm, Julia Lov"
+  },
+  {
+    "language": "Portuguese",
+    "n_songs": 261,
+    "total_streams": 4052,
+    "total_minutes": 12230.1,
+    "top_artists": "Marina Sena, Marília Mendonça, Luísa Sonza"
+  },
+  {
+    "language": "Dutch",
+    "n_songs": 297,
+    "total_streams": 4746,
+    "total_minutes": 12144.1,
+    "top_artists": "Maan, Zoë Tauran, Froukje"
+  },
+  {
+    "language": "French",
+    "n_songs": 359,
+    "total_streams": 3578,
+    "total_minutes": 10176.7,
+    "top_artists": "Angèle, Charlotte Cardin, Iliona"
+  },
+  {
+    "language": "Finnish",
+    "n_songs": 178,
+    "total_streams": 2557,
+    "total_minutes": 7295.3,
+    "top_artists": "Evelina, Etta, Benjamin"
+  },
+  {
+    "language": "Estonian",
+    "n_songs": 108,
+    "total_streams": 2201,
+    "total_minutes": 6209.6
+  },
+  {
+    "language": "Indonesian",
+    "n_songs": 57,
+    "total_streams": 1279,
+    "total_minutes": 4578.5
+  },
+  {
+    "language": "Polish",
+    "n_songs": 113,
+    "total_streams": 1379,
+    "total_minutes": 4216.9
+  },
+  {
+    "language": "Norwegian",
+    "n_songs": 95,
+    "total_streams": 1404,
+    "total_minutes": 3747
+  },
+  {
+    "language": "Danish",
+    "n_songs": 59,
+    "total_streams": 1375,
+    "total_minutes": 3695.2
+  },
+  {
+    "language": "Korean",
+    "n_songs": 190,
+    "total_streams": 1175,
+    "total_minutes": 3673
+  },
+  {
+    "language": "Instrumental",
+    "n_songs": 802,
+    "total_streams": 1043,
+    "total_minutes": 3006
+  },
+  {
+    "language": "Romanian",
+    "n_songs": 68,
+    "total_streams": 931,
+    "total_minutes": 2756
+  },
+  {
+    "language": "German",
+    "n_songs": 97,
+    "total_streams": 1063,
+    "total_minutes": 2730.3
+  },
+  {
+    "language": "Japanese",
+    "n_songs": 94,
+    "total_streams": 735,
+    "total_minutes": 2626.1
+  },
+  {
+    "language": "Greek",
+    "n_songs": 102,
+    "total_streams": 908,
+    "total_minutes": 2467.4
+  },
+  {
+    "language": "Ukrainian",
+    "n_songs": 32,
+    "total_streams": 715,
+    "total_minutes": 1831.4
+  },
+  {
+    "language": "Turkish",
+    "n_songs": 73,
+    "total_streams": 669,
+    "total_minutes": 1780.3
+  },
+  {
+    "language": "Mongolian",
+    "n_songs": 25,
+    "total_streams": 429,
+    "total_minutes": 1301.9
+  },
+  {
+    "language": "Russian",
+    "n_songs": 59,
+    "total_streams": 450,
+    "total_minutes": 1243.5
+  },
+  {
+    "language": "Czech",
+    "n_songs": 27,
+    "total_streams": 435,
+    "total_minutes": 1186.2
+  },
+  {
+    "language": "Arabic",
+    "n_songs": 34,
+    "total_streams": 331,
+    "total_minutes": 1143.5
+  },
+  {
+    "language": "Albanian",
+    "n_songs": 27,
+    "total_streams": 349,
+    "total_minutes": 1038.9
+  },
+  {
+    "language": "Kazakh",
+    "n_songs": 32,
+    "total_streams": 400,
+    "total_minutes": 1034.3
+  },
+  {
+    "language": "Lithuanian",
+    "n_songs": 31,
+    "total_streams": 344,
+    "total_minutes": 912.1
+  },
+  {
+    "language": "Catalan",
+    "n_songs": 17,
+    "total_streams": 332,
+    "total_minutes": 870
+  },
+  {
+    "language": "Serbian",
+    "n_songs": 33,
+    "total_streams": 330,
+    "total_minutes": 849
+  },
+  {
+    "language": "Thai",
+    "n_songs": 29,
+    "total_streams": 226,
+    "total_minutes": 688.6
+  },
+  {
+    "language": "Icelandic",
+    "n_songs": 33,
+    "total_streams": 268,
+    "total_minutes": 687.9
+  },
+  {
+    "language": "Zulu",
+    "n_songs": 10,
+    "total_streams": 136,
+    "total_minutes": 614.6
+  },
+  {
+    "language": "Slovene",
+    "n_songs": 19,
+    "total_streams": 209,
+    "total_minutes": 565.2
+  },
+  {
+    "language": "Croatian",
+    "n_songs": 21,
+    "total_streams": 191,
+    "total_minutes": 476.5
+  },
+  {
+    "language": "Vietnamese",
+    "n_songs": 18,
+    "total_streams": 134,
+    "total_minutes": 351.3
+  },
+  {
+    "language": "Darija",
+    "n_songs": 21,
+    "total_streams": 126,
+    "total_minutes": 344.1
+  },
+  {
+    "language": "Armenian",
+    "n_songs": 10,
+    "total_streams": 113,
+    "total_minutes": 284.4
+  },
+  {
+    "language": "Uzbek",
+    "n_songs": 5,
+    "total_streams": 74,
+    "total_minutes": 221.2
+  },
+  {
+    "language": "Hungarian",
+    "n_songs": 11,
+    "total_streams": 59,
+    "total_minutes": 158.8
+  },
+  {
+    "language": "Bulgarian",
+    "n_songs": 10,
+    "total_streams": 45,
+    "total_minutes": 129.6
+  },
+  {
+    "language": "Hebrew",
+    "n_songs": 15,
+    "total_streams": 51,
+    "total_minutes": 123.6
+  },
+  {
+    "language": "Latin",
+    "n_songs": 1,
+    "total_streams": 22,
+    "total_minutes": 86
+  },
+  {
+    "language": "Belarusian",
+    "n_songs": 4,
+    "total_streams": 31,
+    "total_minutes": 82.9
+  },
+  {
+    "language": "Mandarin Chinese",
+    "n_songs": 23,
+    "total_streams": 35,
+    "total_minutes": 66.8
+  },
+  {
+    "language": "Bosnian",
+    "n_songs": 2,
+    "total_streams": 33,
+    "total_minutes": 66.4
+  },
+  {
+    "language": "Dari",
+    "n_songs": 1,
+    "total_streams": 23,
+    "total_minutes": 61.9
+  },
+  {
+    "language": "Punjabi",
+    "n_songs": 8,
+    "total_streams": 30,
+    "total_minutes": 59.9
+  },
+  {
+    "language": "Sami",
+    "n_songs": 5,
+    "total_streams": 24,
+    "total_minutes": 59.1
+  },
+  {
+    "language": "Meitei",
+    "n_songs": 4,
+    "total_streams": 25,
+    "total_minutes": 58.8
+  },
+  {
+    "language": "Breton",
+    "n_songs": 4,
+    "total_streams": 25,
+    "total_minutes": 56.8
+  },
+  {
+    "language": "Montenegrin",
+    "n_songs": 4,
+    "total_streams": 9,
+    "total_minutes": 17.5
+  },
+  {
+    "language": "Hindi",
+    "n_songs": 5,
+    "total_streams": 6,
+    "total_minutes": 11.7
+  },
+  {
+    "language": "Slovak",
+    "n_songs": 4,
+    "total_streams": 5,
+    "total_minutes": 10.8
+  },
+  {
+    "language": "Xhosa",
+    "n_songs": 3,
+    "total_streams": 4,
+    "total_minutes": 10.2
+  },
+  {
+    "language": "Crimean Tatar",
+    "n_songs": 2,
+    "total_streams": 5,
+    "total_minutes": 10.1
+  },
+  {
+    "language": "Constructed Language",
+    "n_songs": 1,
+    "total_streams": 2,
+    "total_minutes": 8.9
+  },
+  {
+    "language": "Sanskrit",
+    "n_songs": 2,
+    "total_streams": 3,
+    "total_minutes": 8.8
+  },
+  {
+    "language": "Georgian",
+    "n_songs": 3,
+    "total_streams": 4,
+    "total_minutes": 8.5
+  },
+  {
+    "language": "Malay",
+    "n_songs": 5,
+    "total_streams": 6,
+    "total_minutes": 8.2
+  },
+  {
+    "language": "Nepali",
+    "n_songs": 1,
+    "total_streams": 1,
+    "total_minutes": 4.6
+  },
+  {
+    "language": "Macedonian",
+    "n_songs": 1,
+    "total_streams": 2,
+    "total_minutes": 4.2
+  },
+  {
+    "language": "Cantonese",
+    "n_songs": 3,
+    "total_streams": 3,
+    "total_minutes": 4
+  },
+  {
+    "language": "Latvian",
+    "n_songs": 3,
+    "total_streams": 3,
+    "total_minutes": 3.7
+  },
+  {
+    "language": "Kikuyu",
+    "n_songs": 1,
+    "total_streams": 2,
+    "total_minutes": 3.3
+  },
+  {
+    "language": "Tamil",
+    "n_songs": 3,
+    "total_streams": 3,
+    "total_minutes": 3.3
+  },
+  {
+    "language": "Amharic",
+    "n_songs": 1,
+    "total_streams": 1,
+    "total_minutes": 3.1
+  },
+  {
+    "language": "Farsi",
+    "n_songs": 1,
+    "total_streams": 1,
+    "total_minutes": 1.3
+  },
+  {
+    "language": "Afrikaans",
+    "n_songs": 1,
+    "total_streams": 1,
+    "total_minutes": 1.2
+  },
+  {
+    "language": "Maori",
+    "n_songs": 1,
+    "total_streams": 1,
+    "total_minutes": 0.8
+  }
+]
