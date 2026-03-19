@@ -7,7 +7,7 @@
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
-  "start": "serve"
+  "start": "serve build"
 },
   "keywords": [
     "html",
